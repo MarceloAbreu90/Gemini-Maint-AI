@@ -1,5 +1,19 @@
 [
   {
+    "nome": "Máquina de Corte e Crimpagem",
+    "modelo": "KS-T103AV",
+    "fabricante": "KINGSING",
+    "manual": "https://link-para-manual.pdf",
+    "defeitos": [
+      {
+        "descricao": "Corte de filamentos do cabo"
+      },
+      {
+        "descricao": "Falha no desponte do cabo"
+      }
+    ]
+  },
+  {
     "nome": "Prensa Hidráulica",
     "modelo": "PH-1000",
     "fabricante": "ACME",

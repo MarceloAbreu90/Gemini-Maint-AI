@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Prensa Hidráulica",
+    "modelo": "PH-1000",
+    "fabricante": "ACME",
+    "manual": "https://link-para-manual.pdf",
+    "defeitos": [
+      {
+        "descricao": "A prensa não atinge a pressão necessária",        
+      },
+      {
+        "descricao": "Vazamento de óleo",        
+      }
+      // ... outros defeitos
+    ]
+  }
+]

@@ -6,10 +6,10 @@
     "manual": "https://link-para-manual.pdf",
     "defeitos": [
       {
-        "descricao": "A prensa não atinge a pressão necessária",        
+        "descricao": "A prensa não atinge a pressão necessária"
       },
       {
-        "descricao": "Vazamento de óleo",        
+        "descricao": "Vazamento de óleo"
       }
     ]
   }

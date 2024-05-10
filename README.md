@@ -3,7 +3,7 @@
 
 **Descrição:**
 
-O *Gemini Maint AI* representa um salto na eficiência da manutenção industrial. Utilizando o poder da Gemini AI do Google e do Processamento de Linguagem Natural (PNL), este sistema inteligente auxilia operadores de máquinas na resolução de problemas de forma autônoma. Com acesso rápido a manuais e históricos de manutenção, o *Gemini Maint AI* agiliza o diagnóstico e a solução de problemas, minimizando o tempo de inatividade e otimizando os recursos.
+O *Gemini Maint AI* representa um salto na eficiência da manutenção industrial. Utilizando o poder da Gemini AI do Google, este sistema inteligente auxilia operadores de máquinas na resolução de problemas de forma autônoma. Com acesso rápido a manuais e históricos de manutenção, o *Gemini Maint AI* agiliza o diagnóstico e a solução de problemas, minimizando o tempo de inatividade e otimizando os recursos.
 
 **Funcionalidades Principais:**
 

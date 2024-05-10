@@ -29,5 +29,22 @@
         "descricao": "Falha de altura de segurança dos nozzles"
       }
     ]
+  },
+  {
+    "nome": "Impressora 3D",
+    "modelo": "Pro3",
+    "fabricante": "Raise 3D",
+    "manual": "https://raw.githubusercontent.com/MarceloAbreu90/Gemini-Maint-AI/main/manuais/15.001-EN.3.0.20240119-Pro3%20Series-User%20Manual.pdf",
+    "defeitos": [
+      {
+        "descricao": "A impressora não se conecta ao computador ou à rede, problemas de comunicação."
+      },
+      {
+        "descricao": "Movimentos irregulares ou imprecisos dos eixos, ruídos estranhos durante a impressão."
+      },
+      {
+        "descricao": "Problemas de aderência da primeira camada, deformação das impressões, danos à plataforma."
+      }
+    ]
   }
 ]

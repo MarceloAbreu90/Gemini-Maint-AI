@@ -3,7 +3,7 @@
     "nome": "Máquina de Corte e Crimpagem",
     "modelo": "KS-T103AV",
     "fabricante": "KINGSING",
-    "manual": "https://raw.githubusercontent.com/MarceloAbreu90/Gemini-Maint-AI/main/KS-T103AV%20User%20Manual%202022.pdf",
+    "manual": "https://raw.githubusercontent.com/MarceloAbreu90/Gemini-Maint-AI/main/manuais/KS-T103AV%20User%20Manual%202022.pdf",
     "defeitos": [
       {
         "descricao": "Corte de filamentos do cabo"

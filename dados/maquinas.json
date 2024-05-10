@@ -14,16 +14,19 @@
     ]
   },
   {
-    "nome": "Prensa Hidráulica",
-    "modelo": "PH-1000",
-    "fabricante": "ACME",
-    "manual": "https://link-para-manual.pdf",
+    "nome": "Pick And Place",
+    "modelo": "K1830",
+    "fabricante": "Neoden",
+    "manual": "https://raw.githubusercontent.com/MarceloAbreu90/Gemini-Maint-AI/main/manuais/User-Manual-NeoDen-K1830-20200618.pdf",
     "defeitos": [
       {
-        "descricao": "A prensa não atinge a pressão necessária"
+        "descricao": "Falha de movimentação dos eixos XY"
       },
       {
-        "descricao": "Vazamento de óleo"
+        "descricao": "Falha de Pick (Pegar componente)"
+      },
+      {
+        "descricao": "Falha de altura de segurança dos nozzles"
       }
     ]
   }

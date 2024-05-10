@@ -1,12 +1,12 @@
 # Gemini-Maint-AI
-Gemini Maint AI: Revolucionando a Manutenção Industrial com Inteligência Artificial
+**Gemini Maint AI: Revolucionando a Manutenção Industrial com Inteligência Artificial**
 Descrição:
 O Gemini Maint AI representa um salto na eficiência da manutenção industrial. Utilizando o poder da Gemini AI do Google e do Processamento de Linguagem Natural (PNL), este sistema inteligente auxilia operadores de máquinas na resolução de problemas de forma autônoma. Com acesso rápido a manuais e históricos de manutenção, o Gemini Maint AI agiliza o diagnóstico e a solução de problemas, minimizando o tempo de inatividade e otimizando os recursos.
 Funcionalidades Principais:
-•	Consulta de informações: Obtenha detalhes específicos sobre máquinas e equipamentos com facilidade.
-•	Diagnóstico preciso: Descreva o problema enfrentado e receba um diagnóstico preciso baseado em dados.
-•	Soluções inteligentes: Acesse sugestões de soluções e instruções de reparo extraídas de manuais e históricos de manutenção.
-•	Interface intuitiva: Interaja com o sistema de forma simples e amigável.
+•	:mag_right: Consulta de informações: Obtenha detalhes específicos sobre máquinas e equipamentos com facilidade.
+•	:wrench: Diagnóstico preciso: Descreva o problema enfrentado e receba um diagnóstico preciso baseado em dados.
+•	:bulb: Soluções inteligentes: Acesse sugestões de soluções e instruções de reparo extraídas de manuais e históricos de manutenção.
+•	:bulb: Interface intuitiva: Interaja com o sistema de forma simples e amigável.
 Tecnologias Inovadoras:
 •	Google Colab: Ambiente de desenvolvimento em nuvem para prototipagem e colaboração.
 •	Python: Linguagem de programação versátil e poderosa para IA e processamento de dados.
